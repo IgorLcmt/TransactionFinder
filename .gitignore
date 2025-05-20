@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.log
+.env
+.secrets
+app_data/embedded_database.pkl
